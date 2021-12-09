@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "Excelente servicio!",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "text": "Muy bueno todo. ",
+      "rating": 9,
+      "id": 2
+    },
+    {
+      "text": "Perfecto! Estoy contento.",
+      "rating": 10,
+      "id": 3
+    }
+  ]
+}
